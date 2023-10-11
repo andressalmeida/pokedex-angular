@@ -1,5 +1,24 @@
 # Pokedex
 
+### Projeto desenvolvido em Angular para consumo da PokeAPI.
+
+
+
+Resultados trazidos pela API:
+
+<img src="public/image1.png">
+
+Filtro realizado com base na busca do usuário:
+
+<img src="public/image2.png">
+
+Detalhamento do Pokemon selecionado pelo usuário:
+
+<img src="public/image3.png">
+
+
+______________________________________________________________________________________________________________________
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server
